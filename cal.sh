@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "addition"
+
 echo "Print first number : "
 read a
 
